@@ -1,3 +1,8 @@
+# Note this is a tutorial from VoidRealms.
+# sources
+# Youtube: https://youtu.be/IynV6Y80vws
+# GitHUb: https://github.com/voidrealms/python3.git (number 54)
+
 #Imports
 import logging
 import time
